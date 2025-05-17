@@ -1,0 +1,61 @@
+sudo poweroff
+ssh-keygen -t ed25519
+[200~
+~cat $HOME/.ssh/*.pub
+[200~cat $HOME/.ssh/*.pub
+~ cat $HOME/.ssh/*.pub
+cat $HOME/.ssh/*.pub
+ls
+ls -l
+cd
+pwd
+mkdir repogit
+cd repogit/
+git clone git@github.com:haunaudaira/TP1_AySO.git
+ls
+TP1_AySO/
+cd TP1_AySO/
+cd TP1_AySO/pwd
+pwd
+ls -l
+cat /etc/os-release
+man grep
+man grep -i
+cat /etc/os-release
+grep HOME_URL /etc/os-release 
+grep -i home_url /etc/os-release
+grep home_url /etc/os-release 
+echo “Usuario=$(whoami)" > datos_usuario.txt
+echo “Usuario=$(whoami)” > datos_usuario.txt
+cat datos_usuario.txt 
+echo hola
+git add .
+echo $?
+git config --global user.email "dairahaunau@gmail.com"
+git config --global user.name "haunaudaira"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "nodel name" /proc/
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add - 
+git add . 
+git status
+git push
+git add. 
+git add . 
+git status
+git commit -m "ADD: Añadiendo información de CPU"
+git push 
+cat <<EOF>> README.md
+cat REA
+cat README.md 
+sed -i "/EOF/d" README.md 
+cat README.md 
+git add . 
+git status
+git commit -m "ADD: Añadiendo README y datos del usuario"
+git push 
+history -a
